@@ -1,14 +1,3 @@
-# Yoga Astri Yudistira
-
-### @yoga.ptc · Bandung, Indonesia
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogaptc&label=Profile%20Views&color=000000&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/yogaptc?label=Followers&style=social" alt="followers"/>
-</p>
-
----
-
 ### 📡 Connect with me
 
 <p align="center">
@@ -85,9 +74,3 @@ A collection of free public API endpoints across 10 categories: AI, AI Image, An
 </td>
 </tr>
 </table>
-
----
-
-<p align="center"><i>Feel free to explore my repositories 🚀</i></p>
-
-<p align="center">Built with <code>&lt;/&gt;</code> — Youga PTC</p>
